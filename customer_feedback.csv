@@ -1,0 +1,6 @@
+customer_id,feedback,date,campaign_response
+1,"The service was great!",2023-01-05,1
+2,"Had some issues with my transaction.",2023-01-12,0
+3,"Very satisfied with the support.",2023-02-10,1
+4,"Not happy with the new policy.",2023-02-20,0
+5,"Excellent customer service.",2023-03-01,1
